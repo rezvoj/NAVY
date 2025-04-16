@@ -1,0 +1,7 @@
+ipykernel
+numpy
+matplotlib
+swig
+gymnasium[box2d]
+torch --index-url https://download.pytorch.org/whl/cu126
+imageio
